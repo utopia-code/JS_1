@@ -1,6 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/AewYikNx)
-# 20231-pec-2
+## <img class="flag-img" width="20px" height="auto" src="https://flagicons.lipis.dev/flags/4x3/gb.svg" alt="Flag of Spain"> PEC 2
 
+This is the repository of the PEC 2 of the subject Programming in JavaScript for Developers. 
+
+You will find the statement with the exercises to do in the file `README_en.md`. Follow the indications we give you in the statement to do the PEC.
 
 ## <img class="flag-img" width="20px" height="auto" src="https://flagicons.lipis.dev/flags/4x3/es.svg" alt="Flag of Spain"> PEC 2
 
